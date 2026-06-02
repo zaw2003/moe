@@ -1,0 +1,2 @@
+import onfire
+onfire.run()
